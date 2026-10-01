@@ -143,4 +143,4 @@ Developed for **GENOVATE 2.0**
 
 **Team Achievement:** 2nd Rank GENOVATE 2.0
 ---
-
+Git workflow setup completed.
