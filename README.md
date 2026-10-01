@@ -141,7 +141,6 @@ Developed for **GENOVATE 2.0**
 
 **Project:** Adaptive Campus Mobility & Parking System
 
-**Team Achievement:** 2nd Rank
-
+**Team Achievement:** 2nd Rank GENOVATE 2.0
 ---
 
