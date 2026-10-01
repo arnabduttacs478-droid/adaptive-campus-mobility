@@ -1,5 +1,13 @@
 # Adaptive Campus Mobility & Parking System
 
+<img width="1600" height="1200" alt="WhatsApp Image 2026-10-01 at 01 11 54" src="https://github.com/user-attachments/assets/f14e2db7-fe10-43f2-947d-968b72ce7a83" />
+
+
+
+DEMO VIDEO:https://youtu.be/qYMLHrs8pRw
+
+
+
 An Arduino-based smart parking guidance and campus mobility system designed to improve parking navigation, reduce unnecessary vehicle movement, and provide an adaptive foundation for future IoT-enabled parking management.
 
 ## 🚗 Project Overview
